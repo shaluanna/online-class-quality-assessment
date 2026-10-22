@@ -1,0 +1,7 @@
+streamlit
+google-genai
+librosa
+soundfile
+plotly
+pandas
+moviepy
