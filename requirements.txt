@@ -4,4 +4,4 @@ librosa
 soundfile
 plotly
 pandas
-moviepy
+moviepy<2.0.0
