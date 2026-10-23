@@ -3,7 +3,7 @@ import os
 import tempfile
 import librosa
 import numpy as np
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 
 def analyze_audio_dynamics(video_path):
     """
